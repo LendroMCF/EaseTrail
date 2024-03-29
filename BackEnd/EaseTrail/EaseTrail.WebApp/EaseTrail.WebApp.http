@@ -1,0 +1,6 @@
+@EaseTrail.WebApp_HostAddress = http://localhost:5200
+
+GET {{EaseTrail.WebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

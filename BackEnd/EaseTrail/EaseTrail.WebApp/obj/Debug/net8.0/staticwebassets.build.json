@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dyGRC5dGQmvvXhiQmU9yx2WZnm0EZM7iBvYdIFnVHbE=",
+  "Source": "EaseTrail.WebApp",
+  "BasePath": "_content/EaseTrail.WebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
