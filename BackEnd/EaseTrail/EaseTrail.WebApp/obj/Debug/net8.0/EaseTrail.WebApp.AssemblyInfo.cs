@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EaseTrail.WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d643e2fca5f8bd0209569a1cfbd34677e22c228")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edde67468bb13910ae45655a4351e1da1343e39c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EaseTrail.WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EaseTrail.WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

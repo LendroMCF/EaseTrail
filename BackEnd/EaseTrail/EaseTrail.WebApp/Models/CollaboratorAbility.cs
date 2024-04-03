@@ -7,11 +7,11 @@ public partial class CollaboratorAbility
 {
     public string Id { get; set; } = null!;
 
-    public string? CollaboratorId { get; set; }
+    public string CollaboratorId { get; set; }
 
-    public string? AbilityId { get; set; }
+    public string AbilityId { get; set; }
 
-    public virtual Ability? Ability { get; set; }
+    public virtual Ability Ability { get; set; }
 
-    public virtual Collaborator? Collaborator { get; set; }
+    public virtual Collaborator Collaborator { get; set; }
 }

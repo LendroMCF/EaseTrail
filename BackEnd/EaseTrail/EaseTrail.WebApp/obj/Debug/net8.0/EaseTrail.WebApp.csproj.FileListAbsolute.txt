@@ -135,3 +135,4 @@ C:\Users\leand\OneDrive\Área de Trabalho\EaseTrail\BackEnd\EaseTrail\EaseTrail.
 C:\Users\leand\OneDrive\Área de Trabalho\EaseTrail\BackEnd\EaseTrail\EaseTrail.WebApp\obj\Debug\net8.0\EaseTrail.WebApp.pdb
 C:\Users\leand\OneDrive\Área de Trabalho\EaseTrail\BackEnd\EaseTrail\EaseTrail.WebApp\obj\Debug\net8.0\EaseTrail.WebApp.genruntimeconfig.cache
 C:\Users\leand\OneDrive\Área de Trabalho\EaseTrail\BackEnd\EaseTrail\EaseTrail.WebApp\obj\Debug\net8.0\ref\EaseTrail.WebApp.dll
+C:\Users\leand\OneDrive\Área de Trabalho\EaseTrail\BackEnd\EaseTrail\EaseTrail.WebApp\bin\Debug\net8.0\Flunt.dll

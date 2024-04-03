@@ -7,11 +7,11 @@ public partial class AccountDetail
 {
     public string Id { get; set; } = null!;
 
-    public string? AccountId { get; set; }
+    public string AccountId { get; set; }
 
-    public string? Name { get; set; }
+    public string Name { get; set; }
 
-    public byte[]? Picture { get; set; }
+    public byte[] Picture { get; set; }
 
-    public virtual Account? Account { get; set; }
+    public virtual Account Account { get; set; }
 }

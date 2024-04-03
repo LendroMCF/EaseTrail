@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+OA4TRkgdlh/foHIBuxTbc7kyVQMSjt/n+SxPNh4p/pOTYsvDA/njDlDz6XDC17MXt+hGwY9P2NQeNk4d1HTqQ==",
+  "dgSpecHash": "ljPqx0zafvloLxPpJlV0o1V35yux5UDz1obnEnTNkewD5nID74Qhd7BS0NphpbefGT7T6aEo1PvU0SBTb5n3wA==",
   "success": true,
   "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\EaseTrail\\BackEnd\\EaseTrail\\EaseTrail.WebApp\\EaseTrail.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

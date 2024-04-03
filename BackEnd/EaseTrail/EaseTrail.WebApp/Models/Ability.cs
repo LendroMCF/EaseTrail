@@ -7,9 +7,9 @@ public partial class Ability
 {
     public string Id { get; set; } = null!;
 
-    public string? Name { get; set; }
+    public string Name { get; set; }
 
-    public int? CreationType { get; set; }
+    public int CreationType { get; set; }
 
     public virtual ICollection<CollaboratorAbility> CollaboratorAbilities { get; set; } = new List<CollaboratorAbility>();
 }

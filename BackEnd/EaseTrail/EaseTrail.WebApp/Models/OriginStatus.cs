@@ -7,13 +7,13 @@ public partial class OriginStatus
 {
     public string Id { get; set; } = null!;
 
-    public string? AccountId { get; set; }
+    public string AccountId { get; set; }
 
-    public string? Name { get; set; }
+    public string Name { get; set; }
 
-    public int? OriginStatus1 { get; set; }
+    public int OriginStatus1 { get; set; }
 
-    public virtual Account? Account { get; set; }
+    public virtual Account Account { get; set; }
 
     public virtual ICollection<User> Users { get; set; } = new List<User>();
 }
